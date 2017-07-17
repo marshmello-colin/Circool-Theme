@@ -1,4 +1,6 @@
-# Circool
+<p align="center">
+	<img src="https://cdn.discordapp.com/attachments/336255588566695947/336610455822925825/image.png">
+</p># Circool
 
 
 A new theme, made of cool circles
